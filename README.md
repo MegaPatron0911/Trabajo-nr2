@@ -1,0 +1,1 @@
+Hoy profesor Mauricio estaré dejando 2 páginas porque en una de ellas aplique todo lo que iba aprendiendo de CSS y la otra va a ser la tarea que aún está en proceso, pero el esqueleto de navegación está correcto
